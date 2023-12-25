@@ -7,7 +7,7 @@ go-spacemesh.exe, profiler.exe, post.dll
 
 2. Replace paths in EasyNodeUpade.cmd using a text editor
 
-3. From Path 1 -- to Path 2
+3. From Path 1 -- to Path 2<br>
 Create paths for each node as shown in example
 
 4. Save and double click.
