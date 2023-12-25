@@ -6,7 +6,7 @@ CLS
 ::Set path to new Spacemesh files
 set path1=C:\Users\A2000\Desktop\grpc\Spacemesh
 
-::Set path where nodes are
+::Set path2 where nodes are
 set node1=K:\node1
 set node2=K:\node2
 set node3=K:\node3
