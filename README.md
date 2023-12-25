@@ -1,6 +1,8 @@
 # EasyNodeUpdate
 Quickly update all your nodes in one click
 
+Video instructions - https://youtu.be/ciZhMmizWrk
+
 Its simple.
 1. Create a folder for your Spacemesh files
 go-spacemesh.exe, profiler.exe, post.dll
