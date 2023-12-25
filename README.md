@@ -5,10 +5,10 @@ Its simple.
 1. Create a folder for your Spacemesh files
 go-spacemesh.exe, profiler.exe, post.dll
 
-2. Replace paths in EasyNodeUpade.cmd using a text editor
+2. Set path1 EasyNodeUpade.cmd using a text editor
 
-3. From Path 1 -- to Path 2<br>
-Create paths for each node as shown in example
+3. Path 2<br>
+Set paths for each node as shown in example
 
 4. Save and double click.
 
